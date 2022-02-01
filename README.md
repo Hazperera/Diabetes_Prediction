@@ -20,6 +20,11 @@ There are 8 predictor variables and 1 target variable (Outcome) as mentioned bel
 - Age: Age (years)
 - Outcome: Class variable (0 or 1)
 
+
+<p align="center">
+  <img width="300" height="300" src="https://cdn1.vectorstock.com/i/thumb-large/65/35/black-icon-on-white-background-doctor-with-syringe-vector-16356535.jpg">
+</p>
+
 <p align="center">
 <a href="https://www.vectorstock.com/royalty-free-vector/black-icon-on-white-background-doctor-with-syringe-vector-16356535">Vector image by VectorStock / vectorstock</a>
 </p>
